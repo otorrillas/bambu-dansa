@@ -60,11 +60,12 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/chemex.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/blog-index.jpg
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
