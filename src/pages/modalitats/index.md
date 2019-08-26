@@ -1,5 +1,5 @@
 ---
-templateKey: product-page
+templateKey: modalitats
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
@@ -91,4 +91,3 @@ pricing:
       plan: Big
       price: '80'
 ---
-

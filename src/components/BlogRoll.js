@@ -24,9 +24,7 @@ class BlogRoll extends React.Component {
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${
-                            post.title
-                          }`,
+                          alt: `featured image thumbnail for post ${post.title}`,
                         }}
                       />
                     </div>
@@ -49,7 +47,7 @@ class BlogRoll extends React.Component {
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+                    Seguir llegint →
                   </Link>
                 </p>
               </article>
