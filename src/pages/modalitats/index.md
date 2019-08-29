@@ -1,16 +1,15 @@
 ---
 templateKey: modalitats
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Classes
+image: /img/horari-set-dec-19.jpg
+heading: Classes per a totes les edats
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Des dels més petits fins als més grans. Tenim classes per a totes les edats i
+  nivells. Vine a prrobar una classe gratis i no et quedis amb les ganes
+  d'apendre a ballar el que més t'agrada!
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/pexels-photo-2590585.jpeg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -91,3 +90,4 @@ pricing:
       plan: Big
       price: '80'
 ---
+
