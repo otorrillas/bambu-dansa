@@ -9,20 +9,29 @@ description: >-
   d'apendre a ballar el que més t'agrada!
 intro:
   blurbs:
-    - image: /img/pexels-photo-2590585.jpeg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/poster-jazz-ig.png
+      text: >-
+        El Jazz és un estil de ball amb arrels africanes i moviments tècnics que
+        ha evolucionat fins a convertir-se en diferents estils de jazz populars.
+        Avui en dia, el que es coneix com a Modern Jazz, és una fusió d'elements
+        de la dansa clàssica, contemporània i la dansa moderna; on es treballa
+        principalment la tècnica, la flexibilitat i l'expressió corporal.
+
+        Ens en anem a Broadway!
+    - image: /img/poster-hip-hop-ig.png
+      text: >+
+        El Hip hop és un moviment artístic i cultural que té origen dins d’una
+        subcultura marginal al Bronx i Harlem, a la ciutat de Nova York a la
+        dècada dels 70. El hip-hop engloba principalment 4 elements que
+        representen la seva cultura: el rap, el DJing, el breaking i el
+        graffiti. 
+
+        A dia d'avui el hip-hop està evolucionant cap a moltes direccions
+        diferents, influenciat principalment per l'evolució de la música hip-hop
+        i la influència dels mitjans de comunicació com la televisió i la
+        prensa, que aporten un enfoc molt més comercial a aquesta cultura.
+
+    - image: /img/poster-salsa-ig.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
@@ -69,7 +78,7 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Vine a probar una classe gratis!!
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
