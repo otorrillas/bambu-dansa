@@ -52,19 +52,11 @@ main:
     image: /img/pexels-photo-2590585.jpeg
   image2:
     alt: foto stock 2
-    image: /img/fot1.jpg
+    image: /img/pexels-photo-1638051.jpeg
   image3:
     alt: HORARI CURS 2019-20
-    image: /img/logo.png
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+    image: /img/horaris_ig.png
+testimonials: []
 full_image: /img/logo.png
 pricing:
   heading: Vine a probar una classe gratis!!
@@ -87,5 +79,10 @@ pricing:
         - ''
       plan: 3 HORES
       price: 55 al mes
+    - description: 4 hores de classe a la setmana
+      items:
+        - ''
+      plan: 4 HORES
+      price: 65 al mes
 ---
 
