@@ -77,10 +77,15 @@ pricing:
         - ''
       plan: 1 HORA
       price: 25 al mes
-    - description: 2 hores de classe a la setmana
+    - description: 2 hores de classes a la setmana
       items:
         - ''
       plan: 2 HORES
       price: 45 al mes
+    - description: 3 hores de classes a la setmana
+      items:
+        - ''
+      plan: 3 HORES
+      price: 55 al mes
 ---
 
