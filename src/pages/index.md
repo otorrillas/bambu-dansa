@@ -3,7 +3,7 @@ templateKey: index-page
 title: Bambú Escola de Dansa
 image: /img/logo.png
 heading: On som?
-subheading: 'Nova escola de dansa  a Granollers, obrim al setembre!!'
+subheading: Nova escola de dansa  a Granollers!!
 mainpitch:
   title: Vine a ballar amb nosaltres
   description: >-
