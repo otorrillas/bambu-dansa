@@ -1,7 +1,7 @@
 ---
 templateKey: modalitats
 title: Classes
-image: /img/horari-set-dec-19.jpg
+image: /img/poster-classes.png
 heading: Classes per a totes les edats
 description: >-
   Des dels més petits fins als més grans. Tenim classes per a totes les edats i
